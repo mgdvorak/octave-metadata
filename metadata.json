@@ -1,0 +1,31 @@
+{
+    "name": "Octave",
+    "symbol": "OCT",
+    "description": "Octave is a crypto token with an exponential growth mechanism based on musical octaves.",
+    "seller_fee_basis_points": 500,
+    "image": "https://i.imgur.com/jYrnbGD.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Token"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Music-based"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "BojLMcjVLJgkF8rG6X1VrYewJTFo7sGwABkCcsnYvYWq",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "https://i.imgur.com/jYrnbGD.jpeg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
